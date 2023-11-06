@@ -10,7 +10,7 @@ atau kalian bisa membaca serangkaian caranya di githubdocs
 
 step sebelum masuk ke kelangkah pertama install git terlebih dahulu di google
 
-
+=============================================================================================================================
 1. buatlah folder yang ingin kamu upload ke github 
 contoh nya saya membuat file bertuliskan 'Tutorial'di file data D yang didalam nya ada 
 html dan text Readme.txt.
@@ -24,14 +24,18 @@ dan kemudian membuat branch baru bernama main ,
 jadi didalam folder Tutorial di cmd saya ketik git add . ( titik disini
 maksud nya ialah mengcopy semua yang ada didalam folder tutorial )
 
-4. setelah di add langsung saja ketik " git commit -m "commit pertama saya ke github "
+4. setelah di add langsung saja ketik " git commit -m "commit pertama saya di github "
 
-5. selanjut nya mengirim file ke repo github, ini kalau cara saya mungking teman-teman ada yang sama ?, login dulu ke github
-lalu saya buat repositori baru di github bernama ( Tutorial ) kemudian repositori yang saya buat tadi, copy link nya
-contoh https://github.com/EclaireRr/Tutorial.git 
+5. selanjut nya mengirim repositori lokal ke repositori github, login dulu ke github
+lalu saya buat repositori baru di github bernama ( Tutorial ) kemudian repositori yang saya buat tadi, saya copy link nya, 
+dengan cara ke repositori yang brusan kamu buat, klik <>code lalu salin link https nya dan pastekan di cmd maka :
+
+D:/Tutorial/ paste disini maka jadinya saya ketik " git push https://github.com/EclaireRr/Tutorial.git " 
+
+contoh link https://github.com/EclaireRr/Tutorial.git 
 
 EclaireRr adalah Username saya di github/ dan Tutorial.git adalah nama repositori saya yang akan saya buat di github 
+==============================================================================================================================
 
-maka jadinya saya ketik " git push https://github.com/EclaireRr/Tutorial.git " 
 
 
