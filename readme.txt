@@ -1,12 +1,9 @@
 Terima kasih sudah membaca
 
-seperti yang kita ketahui ada banyak cara untuk kita bisa mengimport file dari lokal ke github.
-
 ini adalah serangkaian tutorial singkat cara mengimpor file 
-dari repositori lokal ke repositori github versi saya dalam konteks saya biasa menggunakan cara ini.
+dari repositori lokal ke repositori github versi saya dalam konteks, saya biasa menggunakan cara ini untuk mengirim file pertama kali di github memakai git.
 
 atau kalian bisa membaca serangkaian caranya di githubdocs
-
 
 step sebelum masuk ke kelangkah pertama install git terlebih dahulu di google.
 
