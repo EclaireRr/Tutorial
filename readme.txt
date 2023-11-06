@@ -7,6 +7,9 @@ atau kalian bisa membaca serangkaian caranya di githubdocs
 
 step sebelum masuk ke kelangkah pertama install git terlebih dahulu di google.
 
+supaya tidak membingungkan folder adalah repositori disebut repositori karena menggunakan git
+mohon koreksi jika salah :)
+
 =========================================================================================================
 1. buatlah folder yang ingin kamu upload ke github 
 contoh nya saya membuat file bertuliskan 'Tutorial' di file data D yang didalam nya ada 
@@ -27,7 +30,8 @@ maksud nya ialah mengcopy semua yang ada didalam folder tutorial )
 lalu saya buat repositori baru di github bernama ( Tutorial ) kemudian repositori yang saya buat tadi, saya copy link nya, 
 dengan cara ke repositori yang brusan kamu buat, klik <>code lalu salin link https nya dan pastekan di cmd maka :
 
-D:/Tutorial/ paste disini maka jadinya saya ketik " git push https://github.com/EclaireRr/Tutorial.git " 
+D:/Tutorial/ paste disini maka jadinya saya ketik " git push https://github.com/EclaireRr/Tutorial.git " push disini \
+maksudnya mengirim atau mengimport repo lokal kamu ke repo yang kamu buat di github.
 
 contoh link https://github.com/EclaireRr/Tutorial.git 
 
