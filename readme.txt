@@ -8,11 +8,11 @@ dari repositori lokal ke repositori github versi saya dalam konteks saya biasa m
 atau kalian bisa membaca serangkaian caranya di githubdocs
 
 
-step sebelum masuk ke kelangkah pertama install git terlebih dahulu di google
+step sebelum masuk ke kelangkah pertama install git terlebih dahulu di google.
 
-=============================================================================================================================
+=========================================================================================================
 1. buatlah folder yang ingin kamu upload ke github 
-contoh nya saya membuat file bertuliskan 'Tutorial'di file data D yang didalam nya ada 
+contoh nya saya membuat file bertuliskan 'Tutorial' di file data D yang didalam nya ada 
 html dan text Readme.txt.
 
 2. bukalah cmd lalu masuk ke folder yang kamu barusan buat tadi, 
@@ -35,7 +35,7 @@ D:/Tutorial/ paste disini maka jadinya saya ketik " git push https://github.com/
 contoh link https://github.com/EclaireRr/Tutorial.git 
 
 EclaireRr adalah Username saya di github/ dan Tutorial.git adalah nama repositori saya yang akan saya buat di github 
-==============================================================================================================================
+=========================================================================================================
 
 
 
