@@ -32,6 +32,13 @@ D:/Tutorial/ paste disini maka jadinya saya ketik " git push https://github.com/
 contoh link https://github.com/EclaireRr/Tutorial.git 
 
 EclaireRr adalah Username saya di github/ dan Tutorial.git adalah nama repositori saya yang akan saya buat di github 
+
+kilas balik nya 
+1. git init -b main
+2. git add .
+3. git commit -m " bebas tulis apa "
+4. git push url https kamu 
+
 =========================================================================================================
 
 
